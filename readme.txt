@@ -1,75 +1,79 @@
 
-    ===POWr Holiday Countdown===
-    Contributors: powr
-    Donate link: http://powr.io/
-    Tags: holiday countdown, holiday timer, time to holiday, countdown timer, time to event, countdown to time, countdown timer plugin, countdown timer widget, mobile responsive
-    Requires at least: 3.0
-    Tested up to: 3.9
-    Stable tag: 1.0
-    License: GPLv2 or later
-    License URI: http://www.gnu.org/licenses/gpl-2.0.html
+===POWr Holiday Countdown===
+Contributors: powr
+Donate link: http://powr.io/
+Tags: holiday countdown, holiday timer, time to holiday, countdown timer, time to event, countdown to time, countdown timer plugin, countdown timer widget, mobile responsive
+Requires at least: 3.0
+Tested up to: 3.9
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-    Countdown to any holiday, birthday, or special event
+POWr Holiday Countdown lets you create a beautiful, unique Holiday Countdown for any event.  Edit right in your web page!
 
-    == Description ==
-    POWr Holiday Countdown is a mobile-responsive, fully-customizable plugin that you can edit **right in the page**.
-    Add the widget to your site, or use the shortcode **[powr-holiday-countdown]** to add Holiday Countdown to any post.
-    <br><br>
-    Countdown to the holidays! Choose from common holidays like New Years, Valentines, or Christmas, or enter your own special day.<br><br>Fully customize the look and feel of the countdown - from the animation, to designing the time skin, to the fonts, colors, and background.<br><br>Choose from expert designed presets or customize the design and color scheme to fit your brand. 
-    <br><br>
-    The basic version of the POWr Holiday Countdown is free!
-    <br><br>
-    POWr plugins can be used an virtually any website, learn more at [www.POWr.io](http://www.powr.io/)
-    <br><br>
-    Features:
-    <br><br>
-    * Choose from common holidays or enter your own special day<br> * Custom animation controls<br> * Scale to any size<br> * Customize all fonts, colors, and backgrounds to fit your brand<br> * Full control over timer 'skin' <br> * Language support - customize text to use any language<br> * Mobile responsive - designed to look great on desktop, tablets, and mobile
-
-
-    == Installation ==
-    To install POWr Holiday Countdown
-    <br><br>
-    1. Upload 'powr-holiday-countdown.php' to the '/wp-content/plugins/' directory
-    <br>
-    2. Activate the plugin through the 'Plugins' menu in WordPress
-    <br><br>
-    To add POWr Holiday Countdown as a widget, go to **Appearance->Widgets**, and drag POWr Holiday Countdown to where you'd like it to appear.
-    <br><br>
-    To add Holiday Countdown within a post or a page, simply write the shortcode **[powr-holiday-countdown label='MY LABEL']** (including the brackets) where you'd like your Holiday Countdown to appear. Then visit your page!
-    <br><br>
-    Want a more detailed tutorial? Visit [How to add Holiday Countdown to your Wordpress site](http://www.powr.io/tutorials/how-to-add-holiday-countdown-plugin-to-your-wordpress-site)
+== Description ==
+**POWr Holiday Countdown** is a fast, simple, and easily customized plugin you can edit **right in your web page**.
+Add the widget to your site, or use the shortcode **[powr-holiday-countdown]** to add Holiday Countdown to any post.
+<br><br>
+POWr plugins can be used on virtually any website!  Learn more at [www.POWr.io](http://www.powr.io/)
+<br>
+= Free Features =
+* Easily create and add real-time holiday countdowns to your web page in seconds!
+* Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
+* Easy to use animation tools bring your countdown to life.
+* Built-in support for text in any language.
+* Mobile responsive design looks great on any device.  
+<br>
+= Upgrade to POWr Pro and: =
+* Eliminate all POWr logos and watermarks
+* Boost plugin load speeds
+* Receive premium POWr support
+* Support the development of other great plugins
 
 
-    == Frequently Asked Questions ==
-    = How can I add Holiday Countdown to a blog post or page? = Just add the shortcode **[powr-holiday-countdown label='MY LABEL']** (including the brackets) in your post where you'd like your Holiday Countdown to appear. Then visit your page!
-
-    = How can I add  Holiday Countdown to my site multiple times? = Just be sure to specify different label text, eg **[powr-holiday-countdown label='MY LABEL 1']**, **[powr-holiday-countdown label='MY LABEL 2']** for each time you use the plugin
-
-    = Why do you require me to sign up? = Signing up is what allows us to track which plugins are yours, and allows you to edit them right in your page.
-
-    = Will my users see the settings icon in the corner of the Holiday Countdown? = No! You only see the settings icon because you own the plugins. To temporarily hide it, click on your page and then type 'p + down arrow' (the letter p followed by the down arrow). You can show the icon again by typing 'p + up-arrow'.
-
-    = I can't see the settings icon anymore, what happened? = You are just logged out of POWr.io. You can show the icon again by typing 'p + up-arrow'.
-
-    = Is POWr Holiday Countdown Free? = Yes, the basic version of Holiday Countdown is completely free!
-
-    = Why should I upgrade? = Upgrading removes all POWr watermarks, speeds up widget loading speed, gets you premium support, and most importantly supports the creation of more great plugins!
+== Installation ==
+To install POWr Holiday Countdown
+<br><br>
+1. Upload 'powr-holiday-countdown.php' to the '/wp-content/plugins/' directory
+<br>
+2. Activate the plugin through the 'Plugins' menu in WordPress
+<br><br>
+To add POWr Holiday Countdown as a widget, go to **Appearance->Widgets**, and drag POWr Holiday Countdown to where you'd like it to appear.
+<br><br>
+To add Holiday Countdown within a post or a page, simply write the shortcode **[powr-holiday-countdown label='MY LABEL']** (including the brackets) where you'd like your Holiday Countdown to appear. Then visit your page!
+<br><br>
+Want a more detailed tutorial? Visit [How to add Holiday Countdown to your Wordpress site](http://www.powr.io/tutorials/how-to-add-holiday-countdown-plugin-to-your-wordpress-site)
 
 
-    == Screenshots ==
-    1. Example
-    2. Example
-    3. Example
-    4. Example
-    5. Example
+== Frequently Asked Questions ==
+= How can I add Holiday Countdown to a blog post or page? = Just add the shortcode **[powr-holiday-countdown label='MY LABEL']** (including the brackets) in your post where you'd like your Holiday Countdown to appear. Then visit your page!
+
+= How can I add  Holiday Countdown to my site multiple times? = Just be sure to specify different label text, eg **[powr-holiday-countdown label='MY LABEL 1']**, **[powr-holiday-countdown label='MY LABEL 2']** for each time you use the plugin
+
+= Why do you require me to sign up? = Signing up is what allows us to track which plugins are yours, and allows you to edit them right in your page.
+
+= Will my users see the settings icon in the corner of the Holiday Countdown? = No! You only see the settings icon because you own the plugins. To temporarily hide it, click on your page and then type 'p + down arrow' (the letter p followed by the down arrow). You can show the icon again by typing 'p + up-arrow'.
+
+= I can't see the settings icon anymore, what happened? = You are just logged out of POWr.io. You can show the icon again by typing 'p + up-arrow'.
+
+= Is POWr Holiday Countdown Free? = Yes, the basic version of Holiday Countdown is completely free!
+
+= Why should I upgrade? = Upgrading removes all POWr watermarks, speeds up widget loading speed, gets you premium support, and most importantly supports the creation of more great plugins!
 
 
-    == Upgrade Notice ==
-    = 1.0 =
-    First released version.
+== Screenshots ==
+1. Example
+2. Example
+3. Example
+4. Example
+5. Example
 
 
-    == Changelog ==
-    = 1.0 =
-    * First released version
-    
+== Upgrade Notice ==
+= 1.0 =
+First released version.
+
+
+== Changelog ==
+= 1.0 =
+* First released version
