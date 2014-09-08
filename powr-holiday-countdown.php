@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Holiday Countdown
     Plugin URI: http://www.powr.io
-    Description: Countdown to any holiday, birthday, or special event Add the widget to your theme, or create a Holiday Countdown on ANY page or post by using the shortcode [powr-holiday-countdown]. Then, simply visit your site and click the settings icon to customize your Holiday Countdown right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Countdown to any holiday, birthday, or special event! Add the widget to your theme, or create a Holiday Countdown on ANY page or post by using the shortcode [powr-holiday-countdown]. Then, simply visit your site and click the settings icon to customize your Holiday Countdown right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
