@@ -36,6 +36,7 @@ First, download, install, and activate POWr Holiday Countdown. Then drop the wid
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Holiday Countdown.
 <br>
