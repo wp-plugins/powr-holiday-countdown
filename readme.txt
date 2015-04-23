@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: responsive design, easy, personalize, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, holiday sale, special deals, promotions, countdown, timer, html timer, responsive design, easy, personalize, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, birthday countdown, website countdown, St. Patricks day, Christmas, New Years, Easter, special deal, limited time, Hanukkah, Chanukah, baby, pregnancy, ticker, wedding, world cup, olympic games, days till, exams, teacher, Halloween,
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,7 @@ First, download, install, and activate POWr Holiday Countdown. Then drop the wid
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.  
 <br>
+
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Enable plugin analytics to measure visitors and page views
