@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Count down to any holiday, birthday, or special event!
 
 == Description ==
- Count down to any holiday, birthday, or special event!
+[youtube https://www.youtube.com/watch?v=OdUHShj0NpA] Count down to any holiday, birthday, or special event!
 <br>
 <br>
 POWr Holiday Countdown is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
@@ -23,8 +23,11 @@ First, download, install, and activate POWr Holiday Countdown. Then drop the wid
 = <a href='http://www.powr.io/tutorials/how-to-add-holiday-countdown-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Easily create and add real-time holiday countdowns to your web page in seconds!
-* Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
+* Countdown to any date and time.
+* Count up from any date and time.
+* Count events over time (a baby is born every 4.3 seconds).
+* Use expert-designed templates or start from scratch.  
+* Custom fonts, colors, backgrounds, and more.
 * Easy to use animation tools bring your countdown to life.
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.  
@@ -32,6 +35,9 @@ First, download, install, and activate POWr Holiday Countdown. Then drop the wid
 
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
+* Automatic reset after completion
+* Display links and messages after completion
+* Accept payments after completion
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
